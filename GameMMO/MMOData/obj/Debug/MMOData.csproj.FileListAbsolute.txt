@@ -1,0 +1,8 @@
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\bin\Debug\MMOData.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\bin\Debug\MMOData.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\bin\Debug\MMOData.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\obj\Debug\MMOData.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\obj\Debug\MMOData.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\obj\Debug\MMOData.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\obj\Debug\MMOData.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOData\obj\Debug\MMOData.csproj.CopyComplete

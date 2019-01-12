@@ -1,0 +1,30 @@
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOPortal.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOPortal.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOPortal.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOData.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\DistributedGameDatabase.dll
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOData.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOData.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\obj\Debug\MMOPortal.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\obj\Debug\MMOPortal.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\obj\Debug\MMOPortal.csproj.CopyComplete
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\obj\Debug\MMOPortal.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\obj\Debug\MMOPortal.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOBiz.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOBiz.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOPortal\bin\Debug\MMOBiz.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOPortal.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOPortal.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOPortal.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOBiz.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOData.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\DistributedGameDatabase.dll
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOBiz.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOBiz.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOData.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\bin\Debug\MMOData.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\obj\Debug\MMOPortal.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\obj\Debug\MMOPortal.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\obj\Debug\MMOPortal.csproj.CopyComplete
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\obj\Debug\MMOPortal.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOPortal\obj\Debug\MMOPortal.pdb

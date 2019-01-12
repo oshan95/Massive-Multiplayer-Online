@@ -1,0 +1,15 @@
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOBiz.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOBiz.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOBiz.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\obj\Debug\MMOBiz.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\obj\Debug\MMOBiz.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\obj\Debug\MMOBiz.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\obj\Debug\MMOBiz.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOData.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\DistributedGameDatabase.dll
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOData.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOData.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\obj\Debug\MMOBiz.csproj.CopyComplete
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOPortal.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOPortal.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOBiz\bin\Debug\MMOPortal.exe.config

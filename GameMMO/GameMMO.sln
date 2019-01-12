@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMOData", "MMOData\MMOData.csproj", "{6BA375A9-4C1A-4786-9EF3-AA94A3BA4D5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMOBiz", "MMOBiz\MMOBiz.csproj", "{32D7F78F-7F2A-430B-A457-EFCBE0DE72EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMOGamePlay", "MMOGamePlay\MMOGamePlay.csproj", "{FAC7FA01-4EAD-422F-BF6D-995B58B5ED8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMOPortal", "MMOPortal\MMOPortal.csproj", "{F62782B3-B8E7-42C0-9971-F85059FB8530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA375A9-4C1A-4786-9EF3-AA94A3BA4D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA375A9-4C1A-4786-9EF3-AA94A3BA4D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA375A9-4C1A-4786-9EF3-AA94A3BA4D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA375A9-4C1A-4786-9EF3-AA94A3BA4D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D7F78F-7F2A-430B-A457-EFCBE0DE72EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D7F78F-7F2A-430B-A457-EFCBE0DE72EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D7F78F-7F2A-430B-A457-EFCBE0DE72EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D7F78F-7F2A-430B-A457-EFCBE0DE72EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC7FA01-4EAD-422F-BF6D-995B58B5ED8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC7FA01-4EAD-422F-BF6D-995B58B5ED8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC7FA01-4EAD-422F-BF6D-995B58B5ED8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC7FA01-4EAD-422F-BF6D-995B58B5ED8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F62782B3-B8E7-42C0-9971-F85059FB8530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F62782B3-B8E7-42C0-9971-F85059FB8530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F62782B3-B8E7-42C0-9971-F85059FB8530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F62782B3-B8E7-42C0-9971-F85059FB8530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FE83D1-AC33-4043-A758-BB5A1FF9B17E}
+	EndGlobalSection
+EndGlobal

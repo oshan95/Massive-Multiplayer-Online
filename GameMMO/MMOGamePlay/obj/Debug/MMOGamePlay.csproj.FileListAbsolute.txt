@@ -1,0 +1,72 @@
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOGamePlay.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOGamePlay.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOGamePlay.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MainWindow.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\App.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay_MarkupCompile.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay_MarkupCompile.lref
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MainWindow.baml
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.g.resources
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.Properties.Resources.resources
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csproj.GenerateResource.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOBiz.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOPortal.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOData.exe
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\DistributedGameDatabase.dll
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOBiz.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOBiz.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOPortal.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOPortal.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOData.pdb
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\bin\Debug\MMOData.exe.config
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csproj.CopyComplete
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\ServerList.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\ServerList.baml
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\ListFriends.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\ListFriends.baml
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\HeroSelection.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\HeroSelection.baml
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\FriendList.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\FriendList.baml
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\GamePlay.g.cs
+C:\Users\oshan\Source\Repos\gamemmo\GameMMO\MMOGamePlay\obj\Debug\GamePlay.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOGamePlay.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOGamePlay.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOGamePlay.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOBiz.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOPortal.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOData.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\DistributedGameDatabase.dll
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOBiz.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOBiz.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOPortal.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOPortal.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOData.pdb
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\bin\Debug\MMOData.exe.config
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csprojResolveAssemblyReference.cache
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\FriendList.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\GamePlay.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\HeroSelection.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\ListFriends.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MainWindow.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\ServerList.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\App.g.cs
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay_MarkupCompile.cache
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay_MarkupCompile.lref
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\FriendList.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\GamePlay.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\HeroSelection.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\ListFriends.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MainWindow.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\ServerList.baml
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.g.resources
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.Properties.Resources.resources
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csproj.GenerateResource.cache
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csproj.CoreCompileInputs.cache
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.csproj.CopyComplete
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.exe
+C:\Users\oshan\Desktop\Submission\19222071 - Game MMO\GameMMO\MMOGamePlay\obj\Debug\MMOGamePlay.pdb
